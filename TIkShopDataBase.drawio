@@ -32,7 +32,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="H8p-flc3e1UOP4B4wcy2" name="packet">
-    <mxGraphModel dx="4743" dy="3057" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4743" dy="2657" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,10 +55,28 @@
           <mxGeometry x="-402" y="535" width="68" height="121" as="geometry" />
         </mxCell>
         <mxCell id="iFTFS54LTqf_RFVYOpCQ-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="149" y="-525" width="1250" height="1665" as="geometry" />
+          <mxGeometry x="149" y="-71" width="1184" height="894" as="geometry" />
         </mxCell>
         <mxCell id="iFTFS54LTqf_RFVYOpCQ-17" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="iFTFS54LTqf_RFVYOpCQ-9">
-          <mxGeometry x="96" y="204" width="1030" height="121" as="geometry" />
+          <mxGeometry x="76" y="127" width="1030" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="661wgLWCzDXGR6TVYdS7-1" value="User Manage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="iFTFS54LTqf_RFVYOpCQ-9">
+          <mxGeometry x="264" y="156" width="643" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="661wgLWCzDXGR6TVYdS7-2" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="iFTFS54LTqf_RFVYOpCQ-9">
+          <mxGeometry x="70.5" y="303" width="1030" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="661wgLWCzDXGR6TVYdS7-3" value="Post Manage&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="iFTFS54LTqf_RFVYOpCQ-9">
+          <mxGeometry x="264" y="324" width="643" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="661wgLWCzDXGR6TVYdS7-4" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="iFTFS54LTqf_RFVYOpCQ-9">
+          <mxGeometry x="70.5" y="485" width="1030" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="661wgLWCzDXGR6TVYdS7-5" value="Order Manage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="iFTFS54LTqf_RFVYOpCQ-9">
+          <mxGeometry x="251" y="519" width="643" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="661wgLWCzDXGR6TVYdS7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFTFS54LTqf_RFVYOpCQ-9" target="iFTFS54LTqf_RFVYOpCQ-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -72,7 +90,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case" id="pARhn85NY7QFX5eex98U">
-    <mxGraphModel dx="3467" dy="2556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2909" dy="2236" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uYHCdiAeohe7_SUQbC4P-0" />
         <mxCell id="uYHCdiAeohe7_SUQbC4P-1" parent="uYHCdiAeohe7_SUQbC4P-0" />
