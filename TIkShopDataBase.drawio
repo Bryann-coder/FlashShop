@@ -117,7 +117,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case" id="pARhn85NY7QFX5eex98U">
-    <mxGraphModel dx="2909" dy="1836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="1087" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uYHCdiAeohe7_SUQbC4P-0" />
         <mxCell id="uYHCdiAeohe7_SUQbC4P-1" parent="uYHCdiAeohe7_SUQbC4P-0" />
@@ -140,7 +140,7 @@
           <mxGeometry x="-238" y="591" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uYHCdiAeohe7_SUQbC4P-5" value="AUTHENTIFICATION" style="ellipse;whiteSpace=wrap;html=1;" parent="uYHCdiAeohe7_SUQbC4P-1" vertex="1">
-          <mxGeometry x="900" y="284" width="271" height="134" as="geometry" />
+          <mxGeometry x="1138" y="200" width="271" height="134" as="geometry" />
         </mxCell>
         <mxCell id="uYHCdiAeohe7_SUQbC4P-13" value="SIGNAL_POST" style="ellipse;whiteSpace=wrap;html=1;" parent="uYHCdiAeohe7_SUQbC4P-1" vertex="1">
           <mxGeometry x="163" y="284" width="143" height="62" as="geometry" />
@@ -397,8 +397,8 @@
         <mxCell id="uYHCdiAeohe7_SUQbC4P-9" value="DOWNLOAD_POST" style="ellipse;whiteSpace=wrap;html=1;" parent="uYHCdiAeohe7_SUQbC4P-1" vertex="1">
           <mxGeometry x="202.25" y="44" width="143" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="uYHCdiAeohe7_SUQbC4P-18" value="UPDATE" style="ellipse;whiteSpace=wrap;html=1;" parent="uYHCdiAeohe7_SUQbC4P-1" vertex="1">
-          <mxGeometry x="183.87" y="135" width="152.13" height="65" as="geometry" />
+        <mxCell id="uYHCdiAeohe7_SUQbC4P-18" value="UPDATE PROFILE" style="ellipse;whiteSpace=wrap;html=1;" parent="uYHCdiAeohe7_SUQbC4P-1" vertex="1">
+          <mxGeometry x="182" y="141" width="152.13" height="65" as="geometry" />
         </mxCell>
         <mxCell id="uYHCdiAeohe7_SUQbC4P-8" value="SHARE_POST" style="ellipse;whiteSpace=wrap;html=1;" parent="uYHCdiAeohe7_SUQbC4P-1" vertex="1">
           <mxGeometry x="192" y="206" width="144" height="60" as="geometry" />
