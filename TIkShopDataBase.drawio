@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.7.17" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.7.17" pages="6">
   <diagram id="2FuZR1G53vrgHG_Qj-eG" name="contexte">
     <mxGraphModel dx="1380" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -666,6 +666,53 @@
         </mxCell>
         <mxCell id="tj1A8rUTUUNGdwblwkkj-34" value="1...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="498" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="86AFl8GuUoa6Y063eiM5" name="Déploiement ">
+    <mxGraphModel dx="1415" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aMSpeJgL2KL5J0h9buLR-1" value="Utilisateur" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="250" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="aMSpeJgL2KL5J0h9buLR-2" value="" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aMSpeJgL2KL5J0h9buLR-3" value="Application mobile&amp;nbsp;&lt;div&gt;TikShop&lt;/div&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aMSpeJgL2KL5J0h9buLR-4" value="Back-end" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="250" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="aMSpeJgL2KL5J0h9buLR-5" value="" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="405" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aMSpeJgL2KL5J0h9buLR-6" value="Serveur d&#39;applicaion&lt;div&gt;Node.js&lt;/div&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="425" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aMSpeJgL2KL5J0h9buLR-7" value="Base de données" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="250" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="aMSpeJgL2KL5J0h9buLR-8" value="" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="715" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aMSpeJgL2KL5J0h9buLR-9" value="Base de données&amp;nbsp;&lt;div&gt;MySql&lt;/div&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="735" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aMSpeJgL2KL5J0h9buLR-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=140;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aMSpeJgL2KL5J0h9buLR-1" target="aMSpeJgL2KL5J0h9buLR-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="580" as="sourcePoint" />
+            <mxPoint x="510" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aMSpeJgL2KL5J0h9buLR-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=290;entryDy=130;entryPerimeter=0;" edge="1" parent="1" target="aMSpeJgL2KL5J0h9buLR-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="770" as="sourcePoint" />
+            <mxPoint x="510" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
